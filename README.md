@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **projects that do not have enough support.**
 
-- 👨‍💻 All of my projects are available at aarkwright@netlify.app.
+- 👨‍💻 All of my projects are available at aarkwright@netlify.app or here on Github.
 
 - 💬 Ask me about **Javascript and interesting coding projects.**
 
