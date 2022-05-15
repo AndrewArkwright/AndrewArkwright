@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **projects that do not have enough support.**
 
-- 👨‍💻 All of my projects are available at [aarkwright@netlify.app or here on GitHub].
+- 👨‍💻 All of my projects are available at aarkwright@netlify.app.
 
 - 💬 Ask me about **Javascript and interesting coding projects.**
 
 - 📫 How to reach me **aarkwright@netlify.app**
 
-- ⚡ Fun fact **I have written programs in binary and Assembly. Even made a simple programing language using Yacc and Lex**
+- ⚡ Fun fact **I have written programs in binary and Assembly. Even made a simple programing language using Yacc and Lex.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
