@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything really, but would prefer it to be related to anime and gaming possibly.**
 
-- 👨‍💻 All of my projects are available at aarkwright@netlify.app or here on Github. I do have a couple of private repositories of all of my Codewars and Leetcode challenges if you would like to take a look at them. I keep them private so people do not just copy paste my solutions for the problems.
+- 👨‍💻 All of my projects are available at **aarkwright@netlify.app or here on Github.** I do have a couple of private repositories of all of my Codewars and Leetcode challenges if someone would like to take a look at them. I keep them private so people do not just copy paste my solutions for the problems.
 
 - 💬 Ask me about **my journey making a programming language and complex algorithms like Floyd-Warshall's all points shortest path.**
 
