@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Arkwright</h1>
 <h3 align="center">a Software engineer who loves anime and gaming!</h3>
 
-- 🔭 I’m currently working on **a website that lets you create characters for Dungeons & Dragons easily and export them. Will expand it more with tools to help while playing**
+- 🔭 I’m currently working on **a website that lets you create characters for Dungeons & Dragons easily and export them. Will expand it more with tools to help while playing.**
 
 - 🌱 I’m currently learning **more on the back-end of software engineering regarding node, react, and ruby.**
 
